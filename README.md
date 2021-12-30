@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @axelcheese
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Learning new code
 - 🌱 I’m currently learning ... Elixir and Pheonix
 - 💞️ I’m looking to collaborate on ... Elixir and Pheonix
 - 📫 How to reach me ... 
